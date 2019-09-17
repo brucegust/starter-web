@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bruce Gust bruce@brucegust.com 615.618.2059
 
 # THANKS
 
