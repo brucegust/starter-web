@@ -13,3 +13,7 @@ Just throwing some random text around. One more little change and then we're don
 ## What is ".md"
 
 "md" stands for "mark down" and is a glorified text file
+
+### Copyright
+
+Git.Training
